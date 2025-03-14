@@ -1,4 +1,9 @@
-## Scripts
+## Tampermonkey Scripts
+
+- [Tokybook Helper](tampermonkey/tokybook-helper.js) — Allows downloading audio chapters and adds some UI tweaks to simplify this.
+
+## AHK Scripts
+
 Some scripts might seem useless, but they may be bound to the macro keys (if present) on the keyboard to serve as quick actions. That's what I do.
 
 - [Always On Top](Scripts/Always%20On%20Top.ahk) — Making the active window always on top of other windows.
@@ -10,7 +15,8 @@ Some scripts might seem useless, but they may be bound to the macro keys (if pre
 - [Plain CopyPaster](Scripts/Plain%20CopyPaster.ahk) — Copy/Cut/Paste the Clipboard as a plain text (by `Win` + `C`/`X`/`V`).
 - [PrintScreen Stupidity Fix](Scripts/PrintScreen%20Stupidity%20Fix.ahk) — Open `Snip & Sketch` via the default hotkey, because binding it to `PrintScreen` does not work in some cases like when playing games.
 
-## Utils
+### AHK Utils
+
 Scripts that are not "functional" by themselves, but rather provide some one-time actions when executed.
 
 - [Kill AHK](Utils/Kill%20AHK.ahk) — Kill all running AHK scripts.
